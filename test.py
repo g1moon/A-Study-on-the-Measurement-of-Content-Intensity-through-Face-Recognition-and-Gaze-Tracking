@@ -81,7 +81,7 @@ def yield_images():
 
             # get video frame
             img = cap.read()
-            img = imutils.resize(img, width=700)
+            img = imutils.resize(img, width=600)
 #
 #            if not ret:
 #                raise RuntimeError("Failed to capture image")
@@ -193,11 +193,11 @@ def main():
 
 
                 if gaze.is_blinking():
-                    text = 'blinking'
+                    text = '0'
                 elif gaze.is_right():
-                    text = 'gazing'
+                    text = '0'
                 elif gaze.is_left():
-                    text = 'gazing'
+                    text = '0'
                 elif gaze.is_center():
                     text = 'gazing'
 
