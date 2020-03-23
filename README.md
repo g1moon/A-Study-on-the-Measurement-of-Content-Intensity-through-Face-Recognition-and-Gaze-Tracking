@@ -27,3 +27,6 @@ https://drive.google.com/open?id=0BxYys69jI14kSVdWWllDMWhnN2c
 ## Test
 ```python3 test.py```
 
+<img width="619" alt="스크린샷 2020-03-23 오후 4 58 20" src="https://user-images.githubusercontent.com/44131043/77294369-84f4a880-6d27-11ea-869b-ab0aefda1765.png">
+
+
