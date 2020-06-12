@@ -21,7 +21,6 @@
 
 ## Evaluation
 <img width="400" alt="스크린샷 2020-06-12 오후 4 24 31" src="https://user-images.githubusercontent.com/44131043/84477236-49380200-acca-11ea-8340-7c92da1c48bd.png">
-![loss](https://user-images.githubusercontent.com/44131043/84477236-49380200-acca-11ea-8340-7c92da1c48bd.png)
 
 ## Data download
 
