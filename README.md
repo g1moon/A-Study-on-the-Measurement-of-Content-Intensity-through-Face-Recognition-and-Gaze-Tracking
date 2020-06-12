@@ -15,6 +15,13 @@
 - tensorflow : '1.14.0'
 - numpy :  '1.16.1'
 
+## Model
+<img width="802" alt="스크린샷 2020-06-12 오후 4 24 38" src="https://user-images.githubusercontent.com/44131043/84476524-3f61cf00-acc9-11ea-86f5-c86fdf921715.png">
+<img width="806" alt="스크린샷 2020-06-12 오후 4 24 31" src="https://user-images.githubusercontent.com/44131043/84476531-412b9280-acc9-11ea-9e69-f23d4ad75732.png">
+
+## Evaluation
+![loss](https://user-images.githubusercontent.com/44131043/84477236-49380200-acca-11ea-8340-7c92da1c48bd.png)
+
 ## Data download
 
 ###  IMDB-WIKI dataset 
